@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomPieChartView">
+        <!--起始角度-->
+        <attr name="startAngle" format="float" />
+        <!--圆环的宽度 -->
+        <attr name="innerToOuterWidth" format="dimension" />
+        <!--背景色 -->
+        <attr name="piebackground" format="string" />
+        <!--片段间隔-->
+        <attr name="pieinterval" format="float" />
+    </declare-styleable>
+
+</resources>
